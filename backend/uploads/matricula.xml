@@ -1,0 +1,13 @@
+
+<matricula>
+  <alumne>
+    <nom>Dennis</nom>
+    <cognoms>Adalbert</cognoms>
+    <email>boghe@gmail.com</email>
+    <adreca>calle los amarillos</adreca>
+    <telefon>6727321</telefon>
+  </alumne>
+  <cicle>DAM</cicle>
+  <curs>1</curs>
+  <moduls>    <modul>Programació</modul>    <modul>Bases de Dades</modul>    <modul>Sistemes Informàtics</modul>    <modul>Entorns de Desenvolupament</modul>    <modul>Llenguatges de Marques i Sistemes de Gestió de la Informació</modul>    <modul>Projecte Intermodular I</modul>    <modul>Anglès Professional I</modul>    <modul>Itinerari Personal per a l</modul>  </moduls>
+</matricula>
